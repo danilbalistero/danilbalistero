@@ -3,9 +3,7 @@
 
 - 🔭 Eu estou atualmente trabalhando em [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial?pli=1)
 
-- 🌱 Estou atualmente aprendendo **Logica de Programação**
-
-- 🤝 Estou procurando ajuda em **Bite by Bite**
+- 🌱 Estou atualmente aprendendo **Java**
 
 - 📫 Como me encontrar **danilbalistero@gmail.com**
 
