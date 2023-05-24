@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, eu sou Daniela Linares Balistero</h1>
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
-- 🔭 Eu estou atualmente trabalhando em [Bite by Bite](https://sites.google.com/edu.unifil.br/bitebybite/p%C3%A1gina-inicial?pli=1)
-
 - 🌱 Estou atualmente aprendendo **Java e PhP**
 
 - 📫 Como me encontrar **danilbalistero@gmail.com**
