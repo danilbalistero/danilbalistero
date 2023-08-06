@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Daniela Linares Balistero</h1>
 <h3 align="center">Estudante de Engenharia de Software</h3>
 
-- 🌱 Estou atualmente aprendendo **Java e PhP**
+- 🌱 Estou atualmente aprendendo **Java**
 
 - 📫 Como me encontrar **danilbalistero@gmail.com**
 
